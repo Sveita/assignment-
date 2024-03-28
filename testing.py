@@ -1,5 +1,2 @@
-def num(N):
-    return n + 2
-
-n = 1 
-print(num(n))
+n = 0 
+return n +1
